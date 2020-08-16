@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Home
+title: Youez_
 ---
 
 <div class="container-fluid">
   <div class="position-relative overflow-hidden row mb-5 text-center bg-light text-dark" style="border: 1px solid black">
     <div class="col">
-      <h1 class="display-5 font-weight-normal">Hacker101</h1>
+      <h1 class="display-5 font-weight-normal">Yuzuriha.me</h1>
       <p class="lead font-weight-normal">{{ site.description }}</p>
       <a class="btn btn-success mb-2" href="resources#2">New to hacking? Click here to get started!</a>
     </div>
