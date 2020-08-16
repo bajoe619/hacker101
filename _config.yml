@@ -1,5 +1,5 @@
-title: Hacker101
-email: support@hackerone.com
+title: Youez
+email: yo@linuxploit.com
 description: >-
   Hacker101 is a free class for web security. Whether you're a programmer with
   an interest in bug bounties or a seasoned security professional, Hacker101
@@ -9,19 +9,19 @@ author:
   twitter: Hacker0x01
 google_analytics: UA-49905813-8
 markdown: kramdown
-url: https://www.hacker101.com
+url: 
 twitter:
-  username: Hacker0x01
-facebook:
+  username: youez.64bit
+facebook: youez.64bit
   app_id: 345444188982280
 github:
   username: Hacker0x01
 social:
   links:
     - https://twitter.com/Hacker0x01
-    - https://www.facebook.com/Hacker0x01
+    - https://www.facebook.com/youez.64bit
     - https://www.linkedin.com/company/hackerone
-    - https://github.com/Hacker0x01
+    - https://github.com/L1nUx3R
 
 plugins:
   - jekyll-seo-tag
